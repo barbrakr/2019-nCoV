@@ -1,7 +1,7 @@
 # 2019-nCoV
 Visualisation of 2019-nCoV's effects
 
-<img src="https://github.com/barbrakr/2019-nCoV/blob/master/2019-nCoV.pdf" width=330 align="right" />
+<img src="https://github.com/barbrakr/2019-nCoV/blob/master/2019-nCoV.pdf" width=150 align="right" />
 
 Free and open source
 
