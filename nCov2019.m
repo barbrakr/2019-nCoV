@@ -24,7 +24,7 @@ plot(allchina(2,:)','r+')
 title('China')
 legend('confirmed cases','deaths','Location','northwest')
 ylabel('Incidence')
-xlabel(sprintf('days 20/01 - %s',datestr(now,'dd/mm')))
+xlabel(sprintf('days 20/01 - %s',datestr(now,'dd/mm'))) %WHO provides data only in late pm (EU time-zone)
 
 subplot(1,3,2)
 plot(allother(1,:),'*'); hold on
