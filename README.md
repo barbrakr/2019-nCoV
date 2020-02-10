@@ -7,7 +7,7 @@ Visualisation of 2019-nCoV's effects on a global scale.
 Free and open source.
 
 # Disclaimer
-Unfortunately, this is work in progress due to 2019-nCoV's nature.
+Unfortunately, this is work in progress due to 2019-nCoV's nature. Please read the information presented [here](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30309-3.pdf) for empowering individuals and society not to panic. However, please note, the author of this repository is not the author of any political views stated in this document.
 
 # Citation
 The data has been taken from the situation reports (PDFs) on [WHO's webpage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
