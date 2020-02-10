@@ -1,5 +1,5 @@
 # 2019-nCoV
-Visualisation of 2019-nCoV's effects on humanity
+Visualisation of 2019-nCoV's effects
 
 <img src="https://github.com/barbrakr/2019-nCoV/2019-nCoV.fig" width=330 align="right" />
 
