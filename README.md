@@ -12,6 +12,9 @@ Unfortunately, this is work in progress due to 2019-nCoV's nature.
 # Citation
 The data has been taken from the situation reports (PDFs) on [WHO's webpage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
 
+# Scientific Resources
+[The Lancet is making research on 2019-nCoV publicly available.](https://www.thelancet.com/coronavirus)
+
 # License
 Copyright © 2019, [Barbara A.K. Kreilkamp](https://orcid.org/0000-0001-6881-5191). This project is licensed under [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause).
 
