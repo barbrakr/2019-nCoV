@@ -9,7 +9,7 @@ Free and open source
 This is work in progress.
 
 # Citation
-[used] data taken from PDFs on https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+data taken from PDFs on [WHO's webpage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
 
 # License
 Copyright © 2019, [Barbara A.K. Kreilkamp](https://orcid.org/0000-0001-6881-5191). This project is licensed under [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause).
