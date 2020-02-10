@@ -4,6 +4,8 @@ close all;
 clear all;
 
 load('2019-nCoV.mat'); % [used] data taken from PDFs on https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+% note that Taiwan has reported cases but is not a member of WHO [data not included here yet], see
+% petition here: https://petitions.whitehouse.gov/petition/take-actions-supporting-taiwan-joining-who
 % includes 'nan' where data provided by WHO is inconsistent with the number
 % of reported new cases
 % [not used] Site without references https://www.reddit.com/r/Coronavirus/comments/eupar9/new_coronavirus_exponential_growth_graph_no_source/
