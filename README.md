@@ -18,7 +18,7 @@ The data has been taken from the situation reports (PDFs) on [WHO's webpage](htt
 # Other Repositories
 That I wasn't aware of previously:
 
-This GitHub repository [by Johns Hopkins CSSE](https://github.com/CSSEGISandData/2019-nCoV) or this dashboard by [Dr. Lau Cher Han](https://www.coronatracker.com) includes data on the many recovered cases, too. P.s.: Not sure where they got those numbers.
+This GitHub repository [by Johns Hopkins CSSE](https://github.com/CSSEGISandData/2019-nCoV) or this dashboard by [Dr. Lau Cher Han](https://www.coronatracker.com) includes data on the many recovered cases, too. [But I am not sure where they got those numbers.]
 
 # License
 Copyright © 2019, [Barbara A.K. Kreilkamp](https://orcid.org/0000-0001-6881-5191). This project is licensed under [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause).
