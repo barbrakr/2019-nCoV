@@ -24,7 +24,7 @@ plot(allchina(2,:)','r+')
 title('China')
 legend('confirmed cases','deaths','Location','northwest')
 ylabel('Incidence')
-xlabel(sprintf('days 20/01 - %s',datestr(now,'dd/mm'))) %WHO provides data only in late pm (EU time-zone)
+xlabel(sprintf('days 20/01 - %s',datestr(now-1,'dd/mm'))) %WHO provides data only in late pm (EU time-zone)
 
 subplot(1,3,2)
 plot(allother(1,:),'*'); hold on
@@ -32,7 +32,7 @@ plot(allother(2,:),'r+')
 title('Other')
 legend('confirmed cases','deaths','Location','northwest')
 ylabel('Incidence')
-xlabel(sprintf('days 20/01 - %s',datestr(now,'dd/mm')))
+xlabel(sprintf('days 20/01 - %s',datestr(now-1,'dd/mm')))
 
 subplot(1,3,3)
 plot(allotherasian(1,:),'*'); hold on
@@ -40,4 +40,4 @@ plot(allotherasian(2,:),'r+')
 title('Other Asian')
 legend('confirmed cases','deaths','Location','northwest')
 ylabel('Incidence')
-xlabel(sprintf('days 20/01 - %s',datestr(now,'dd/mm')))
+xlabel(sprintf('days 20/01 - %s',datestr(now-1,'dd/mm')))
