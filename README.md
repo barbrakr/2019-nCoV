@@ -1,6 +1,6 @@
 # COVID-19
 
-<img src="https://github.com/barbrakr/2019-nCoV/blob/master/COVID-19.jpg" width=600 align="right" />
+<img src="https://github.com/barbrakr/2019-nCoV/blob/master/2019-nCoV.jpg" width=600 align="right" />
 
 Visualisation of COVID-19's effects on a global scale.
 
