@@ -1,6 +1,6 @@
 # 2019-nCoV
 
-<img src="https://github.com/barbrakr/2019-nCoV/blob/master/2019-nCoV.jpg" width=500 align="right" />
+<img src="https://github.com/barbrakr/2019-nCoV/blob/master/2019-nCoV.jpg" width=600 align="right" />
 
 Visualisation of 2019-nCoV's effects on a global scale.
 
